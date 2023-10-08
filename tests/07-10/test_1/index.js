@@ -32,3 +32,12 @@ const users = [
     ],
   },
 ];
+
+users[0].common[1].balance = 2500;
+users[0].common[0].email = "pedroromario@bol.com.br";
+
+users[0].prime[0].balance = 0
+users[0].prime[0].name = "Mario"
+users[0].prime[0].email = "mario@gmail.com";
+
+users[0].prime[1][0].bank = "Nubank"

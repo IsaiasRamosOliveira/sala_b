@@ -3,7 +3,7 @@
 ### Nível 1
 
  - Banner
-  - Fazer nome do banner mudar de acordo com a mudança de imagem de fubdo.
+  - Fazer nome do banner mudar de acordo com a mudança de imagem de fundo.
 
 ### Nível 2 - Advanced
 
