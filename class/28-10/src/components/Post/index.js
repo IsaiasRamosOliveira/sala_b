@@ -1,6 +1,6 @@
 // Nível 1
 
-/* const cards = document.querySelector("#cards");
+const cards = document.querySelector("#cards");
 
 cards.innerHTML += `
 
@@ -15,7 +15,7 @@ cards.innerHTML += `
 </div>
 
 `;
-*/
+
 
 // Nível 2
 
